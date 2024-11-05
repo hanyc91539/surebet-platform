@@ -3,9 +3,12 @@ For some people, sports betting can be a way to show their love for the sport. F
 
 ## Illustrated, how to win with the surebet?
 Example: Asian Handicap (AH) victory in a La Liga match
-
+```
 B 1 : AH1 (-1,5) = 1,84	AH2 (+1,5) = 2,14
+```
+```
 B 2 : AH1 (-1,5) = 2,07	AH2 (+1.5) = 1.83
+```
 Above you can see the odds (Asian handicap) of a Spanish La Liga match from two different bookmakers. Of course, a normal bettor will not notice anything. However, a professional referee will notice that the Asian handicap (+1.5) of bookmaker 1 and the Asian handicap (-1.5) of bookmaker 2, both with odds above 2, are surebets. In simple terms, you are sure to win your bet by betting on both events simultaneously.
 
 ## Is finding a surebet a matter of chance?
